@@ -1,5 +1,4 @@
-# Created test cases for Successful and Failed Login
-
+# Created test cases for Bottom Navigation 
 ```
 class MainActivityTest{
 
